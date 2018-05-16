@@ -66,7 +66,7 @@ js/
 [Bootstrap3日本語リファレンス](http://bootstrap3.cyberlab.info/)  
 [Bootstrap4 Documentation](https://getbootstrap.com/docs/4.1/getting-started/introduction/)  
 [Sass Documentation](https://sass-lang.com/documentation/file.SASS_REFERENCE.html)  
-
+[Sass（SCSS）は難しくないよ！私なりの使い方をご紹介！](https://www.tam-tam.co.jp/tipsnote/html_css/post5189.html)  
 
 
 
