@@ -9,21 +9,27 @@ Dreamweaverでサイトの設定をする。
 
 ## サイトの構成について
 	
+#### TOPページ
 index.html
-　│
-　├ works/
-　│　└ works-archive.html
-　│　　　└ works-single01.html
-　│
-　├ common/
-　│　├ css/
-　│　│　　└ xxxxxxx.css
-　│　│
-　│　├ img/
-　│　│　　 ├ home/
-　│　│　　　　└ xxxxxxx.jpg
-　│　└ works/
-　│　　　└ xxxxxxx.jpg
- 
+
+#### works一覧ページ
+works/works-archive.html
+
+#### works個別ページ
+works/works-single01.html
+
+#### img・CSS・JS・SCSSなど
+common/
+
+#### imgはちゃんとフォルダ分けすること
+common/home
+common/works
+
+
+
+
+
+
+
  
  
