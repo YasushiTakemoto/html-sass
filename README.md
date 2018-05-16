@@ -55,7 +55,15 @@ scss/pages/contact.scss
 
 ***
 
+### jsを入れる場所です。
 
+js/
+
+***
+
+### 参考のドキュメント
+
+[Bootstrap3日本語リファレンス](http://bootstrap3.cyberlab.info/)  
 
 
 
