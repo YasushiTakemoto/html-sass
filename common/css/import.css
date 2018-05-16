@@ -1,0 +1,23 @@
+/*base*/
+@import url("../css/normalize.css");
+
+/*vendors*/
+@import url("../css/bootstrap-4.0.0.css");
+
+/*global*/
+@import url("../css/layout.css");
+@import url("../css/typography.css");
+@import url("../css/utility.css");
+
+/*components*/
+@import url("../css/header.css");
+@import url("../css/footer.css");
+@import url("../css/globalnavi.css");
+@import url("../css/sidebar.css");
+
+/*page*/
+@import url("../css/home.css");
+@import url("../css/news.css");
+@import url("../css/works.css");
+@import url("../css/contact.css");
+
