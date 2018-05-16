@@ -31,10 +31,10 @@ common/works
 scss/base/normalize.scss
 
 #### componentsはheaerやfooterなどの共通パーツです。
-scss/components/footer.scss
-scss/components/globalnavi.scss
-scss/components/header.scss
-scss/components/sidebar.scss
+scss/components/footer.scss  
+scss/components/globalnavi.scss  
+scss/components/header.scss  
+scss/components/sidebar.scss  
 
 
 
