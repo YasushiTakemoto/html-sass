@@ -1,4 +1,18 @@
 /* Scss Document */
-.home-content {
-  color: #fff;
-  font-size: 14px; }
+.bg-content {
+  background: #fff;
+  padding: 50px;
+  position: relative;
+  z-index: 100; }
+
+.mt-100 {
+  margin-top: 100px; }
+.mt-150 {
+  margin-top: 150px; }
+.mt-200 {
+  margin-top: 200px; }
+.mt-500 {
+  margin-top: 500px; }
+
+.w-100 {
+  width: 100%; }
